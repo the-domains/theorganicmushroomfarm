@@ -1,0 +1,28 @@
+name: TheOrganicmushroomfarm
+favicon: null
+layout_spectrum: 0.28623426402918994
+typography_spectrum: 0.6871337334159762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8258445055689663
+  lightness: 0.015392743283882737
+  saturation: 0.5441077686846256
+  rhythmicContrast: 0.08937600441277027
+purpose: []
